@@ -1,0 +1,49 @@
+{"buttons":[
+  {
+    "name": "Schwarzkopf Button",
+    "address": "34:d2:70:cf:b8:84",
+    "url": "https://maker.ifttt.com/trigger/schwarzkopf_button/with/key/hzEL1wAeMh5DjciDcqmZpFqL2S0DZ0xHeKV-WlpiAxk",
+    "method": "POST"
+  },
+  {
+    "name": "Brabantia Button",
+    "address": "ac:63:be:b5:b7:d9",
+    "url": "https://maker.ifttt.com/trigger/brabantia_button/with/key/hzEL1wAeMh5DjciDcqmZpFqL2S0DZ0xHeKV-WlpiAxk",
+    "method": "POST"
+  },
+{
+    "name": "Nerf Button",
+    "address": "34:d2:70:d8:4d:37",
+    "url": "https://maker.ifttt.com/trigger/nerf_button/with/key/hzEL1wAeMh5DjciDcqmZpFqL2S0DZ0xHeKV-WlpiAxk",
+    "method": "POST"
+  },
+ {
+    "name": "PowerPoint Button",
+    "address": "50:f5:da:1d:16:6d",
+    "url": "https://maker.ifttt.com/trigger/powerpoint_button/with/key/hzEL1wAeMh5DjciDcqmZpFqL2S0DZ0xHeKV-WlpiAxk",
+    "method": "POST"
+  },{
+    "name": "GBC Button",
+    "address": "34:d2:70:2e:80:60",
+    "url": "https://maker.ifttt.com/trigger/gbc_button/with/key/hzEL1wAeMh5DjciDcqmZpFqL2S0DZ0xHeKV-WlpiAxk",
+    "method": "POST"
+  },{
+    "name": "Brabantia2 Button",
+    "address": "50:f5:da:52:cd:06",
+    "url": "https://maker.ifttt.com/trigger/brabantia2_button/with/key/hzEL1wAeMh5DjciDcqmZpFqL2S0DZ0xHeKV-WlpiAxk",
+    "method": "POST"
+  },
+  {
+    "name": "Schwarzkopf2 Button",
+    "address": "ac:63:be:a5:be:8b",
+    "url": "https://maker.ifttt.com/trigger/schwarzkopf2_button/with/key/hzEL1wAeMh5DjciDcqmZpFqL2S0DZ0xHeKV-WlpiAxk",
+    "method": "POST"
+  },
+ {
+    "name": "Gilette Button",
+    "address": "ac:63:be:60:28:9e",
+    "url": "https://maker.ifttt.com/trigger/gilette_button/with/key/hzEL1wAeMh5DjciDcqmZpFqL2S0DZ0xHeKV-WlpiAxk",
+    "method": "POST"
+  }
+]}
+
